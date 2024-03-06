@@ -1,0 +1,52 @@
+Data Analysis Report
+
+Introduction
+
+The dataset under consideration contains information about students in a math course. It includes various attributes related to the students' personal, family, and academic background. The goal is to perform data analysis and build predictive models for the final grade (G3) based on the available features.
+
+Exploratory Data Analysis (EDA)
+
+Descriptive Statistics
+The dataset consists of both numerical and categorical features. Descriptive statistics were computed to understand the distribution and characteristics of the numerical variables.
+
+Correlation Analysis
+A correlation matrix was generated to identify relationships between numerical features. Heatmaps were used for visual representation, providing insights into potential correlations.
+
+Categorical Feature Visualization
+Categorical features were visualized using count plots and box plots to observe their distribution and potential impact on the target variable (G3).
+
+Feature Engineering
+
+Several feature engineering techniques were applied to create new variables and subsets of the data, including the addition of alcohol-related features and the combination of parental education levels.
+
+Model Building
+
+Data Preprocessing
+The dataset was split into training and testing sets. Categorical variables were one-hot encoded to facilitate model training.
+
+Model Selection
+Four regression models were selected for evaluation:
+
+Random Forest Regressor
+Decision Tree Regressor
+Ridge Regressor
+Linear Regression
+Model Evaluation
+Models were evaluated using cross-validation mean squared error (CV MSE), mean squared error (MSE), R2 score, and mean absolute error (MAE) on both the training and testing sets.
+
+Model Comparison
+
+The performance of each model was compared based on CV MSE, MSE, R2 score, and MAE. The results were visualized through bar plots to provide a clear understanding of each model's strengths and weaknesses.
+
+Hyperparameter Tuning
+
+A grid search was performed to identify the optimal hyperparameters for the Random Forest Regressor. The best model and its performance metrics on the test set were reported.
+
+Conclusion
+
+The analysis reveals insights into the factors influencing students' final grades in a math course. The Random Forest Regressor with tuned hyperparameters demonstrated the best overall performance. Further refinement and exploration can be done to enhance the predictive capabilities of the models.
+
+
+
+
+

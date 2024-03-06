@@ -1,0 +1,27 @@
+title,num_comments,formatted_created,upvote_ratio,ups,downs
+[D] Simple Questions Thread,26,2023-12-17 10:00:19,0.78,5,0
+[P] I tried to teach Mistral 7B a new language (Sundanese) and it worked! (sort of),12,2023-12-22 04:54:20,0.95,93,0
+[News] Apple Researchers Unveil DeepPCR: A Novel Machine Learning Algorithm that Parallelizes Typically Sequential Operations in Order to Speed Up Inference and Training of Neural Networks,4,2023-12-22 06:19:33,0.92,45,0
+[D] Alignment Horseshoe,3,2023-12-22 11:17:16,0.92,11,0
+[D] What are some cheap and OK devices for training on CUDA?,29,2023-12-22 01:22:37,0.72,17,0
+[R] Perseus: Removing Energy Bloat from Large Model Training,0,2023-12-22 06:59:44,1.0,6,0
+[P] Training Local LLM to Translate Text into Code,5,2023-12-22 10:43:28,1.0,3,0
+[D]When should and shouldn’t you balance an unbalanced dataset?,12,2023-12-22 05:26:20,0.75,6,0
+[R] Transformer as a hippocampal memory consolidation model based on NMDAR-inspired nonlinearity,0,2023-12-22 07:11:22,1.0,4,0
+[D] How can LLMs be aware of the characters existing within each subtoken?,8,2023-12-22 06:37:38,0.64,4,0
+"[D] Deep dive into the MMLU (""Are you smarter than an LLM?"")",46,2023-12-21 12:21:28,0.95,83,0
+[D] Increase in training loss while in the first epoch,3,2023-12-22 06:09:54,0.8,3,0
+[P] Fine-Tuning and Evaluating a Falcon 7B/LLAMA 7B Model for HTML Code Generation,2,2023-12-22 11:58:32,0.5,0,0
+[P] Stable Diffusion Telegram Bot,0,2023-12-22 11:18:42,0.5,0,0
+[D] interactive voice robot?,0,2023-12-22 06:14:08,1.0,2,0
+[R] Methods for Fault Detection of Sensors,1,2023-12-22 09:46:53,0.5,0,0
+[D] Using SparkFM for recommendation system,3,2023-12-22 08:20:27,0.67,1,0
+Current State of the Art Face Recognition Model? [D],0,2023-12-22 07:26:11,0.6,1,0
+[D]How to train a binary classifier with infinite examples of the negative class,8,2023-12-22 03:36:11,0.56,2,0
+[D] Advice for Learning,4,2023-12-22 05:32:03,0.5,0,0
+[P] Where do I begin for timekeeping?,3,2023-12-22 10:03:02,0.33,0,0
+Meta AI Residency Interview Question [D],41,2023-12-21 02:58:28,0.85,62,0
+[P] I built an open SotA image tagging model to do what CLIP won't,63,2023-12-20 19:34:39,0.96,201,0
+"[P] the Decimator, or how to plot a lot of points",2,2023-12-21 09:54:54,0.68,12,0
+[D] Pycharm with Google drive (for ML project),1,2023-12-22 00:17:11,0.33,0,0
+NAS or server for storing data for ML models [Discussion],12,2023-12-21 17:38:45,0.33,0,0

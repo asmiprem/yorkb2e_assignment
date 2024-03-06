@@ -1,0 +1,10 @@
+services:
+  db: # Name of our container
+    image: postgres:latest # Image to load into container
+    environment:
+      POSTGRES_PASSWORD: password # Password for database
+      POSTGRES_USER: postgres # Main User
+    ports:
+      - "5432:5432" # Map postgres default port to the same port on the host
+    volumes:
+      - ./local_data:/var/lib/postgresql/data # Maps local folder to container data
